@@ -1,0 +1,15 @@
+This is a Unity-based game developed for DIG2632 in the University of Florida.
+The game focoses on fast character movements and bullet-hell shooter gameplay.
+
+My contribution to key features
+- Implemented player double jump, and grappling mechanic to achieve satisying character movements
+- Implemented enemy pathfinding and patrol system
+- Built a wave based enemy spawn system using conditions
+
+Technologies used
+- Unity
+- C# (Visual Studio)
+
+How to run
+Download the build via itch.io 
+https://jababoy1023.itch.io/steel-fantom
